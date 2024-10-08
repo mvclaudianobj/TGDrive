@@ -1,8 +1,8 @@
 services:
   # A Docker web service
   - type: web
-    name: tgdrive
-    repo: https://github.com/TechShreyash/TGDrive
+    name: fenix_teledrive
+    repo: https://github.com/mvclaudiano/TGDrive
     runtime: python
     branch: main
     plan: free
